@@ -1,0 +1,13 @@
+12
+23D:\Jirengu\canvas1\dist132841999575167281 1
+28D:\Jirengu\canvas1\style.css132841982098339674 0
+46D:\Jirengu\canvas1\dist\index.de101254.css.map132841982174522679 0
+29D:\Jirengu\canvas1\index.html132841968673775133 0
+42D:\Jirengu\canvas1\dist\index.de101254.css132841982174043954 0
+47D:\Jirengu\canvas1\dist\index2.de101254.css.map132841987623106497 0
+30D:\Jirengu\canvas1\index2.html132841999541145831 0
+47D:\Jirengu\canvas1\dist\canvas1.45ee5e70.js.map132841818071721139 0
+43D:\Jirengu\canvas1\dist\canvas1.45ee5e70.js132841818071671625 0
+34D:\Jirengu\canvas1\dist\index.html132841968636932632 0
+43D:\Jirengu\canvas1\dist\index2.de101254.css132841987623051290 0
+35D:\Jirengu\canvas1\dist\index2.html132841999575147336 0
